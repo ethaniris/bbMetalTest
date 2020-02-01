@@ -1,0 +1,22 @@
+PODS:
+  - BBMetalImage (1.0.8)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+
+DEPENDENCIES:
+  - BBMetalImage
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BBMetalImage
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  BBMetalImage: 758c7bd4e1692cb420daa6857ae57579cf241c89
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+
+PODFILE CHECKSUM: 341c159a363b6a9a731587e4377788dab4a1da79
+
+COCOAPODS: 1.5.3
